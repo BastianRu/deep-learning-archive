@@ -20,8 +20,8 @@ Este espacio no es solo una colección de resúmenes teóricos; es un archivo de
 ### Fundamentos de Deep Learning
 * 🧠 **Por Qué Mueren las Redes Neuronales: La Matemática Detrás del Vanishing Gradient Problem:**
   Un análisis profundo del flujo de datos a través de un Perceptrón Multicapa (MLP). Este artículo abre la caja negra del cálculo multivariable y la regla de la cadena total durante el *backward pass* para demostrar matemáticamente el origen exacto donde colapsan los gradientes.
-  * [Leer Artículo (ES)](https://bastianru.github.io/deep-learning-archive/es/why-nn-die)
-  * [Read Article (EN)](https://bastianru.github.io/deep-learning-archive/en/why-nn-die)
+  * [Leer Artículo (ES)](https://bastianru.github.io/deep-learning-archive/es/why-nn-die/P1)
+  * [Read Article (EN)](https://bastianru.github.io/deep-learning-archive/en/why-nn-die/P1)
 
 * 🧪 **La Matemática Detrás de la Inicialización de Xavier (Próximamente):**
   Como una continuacion directa del primer articulo, partiendo del problema de la degradación del gradiente, derivaremos matemáticamente los factores exactos de escalado de varianza propuestos por Xavier Glorot y Yoshua Bengio en 2010 para mantener las señales vivas a lo largo de arquitecturas profundas.
