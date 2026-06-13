@@ -20,8 +20,8 @@ This space is more than just a collection of theoretical summaries; it is an arc
 ### Deep Learning Foundations
 1.  **Why Neural Networks Die: The Math Behind the Vanishing Gradient Problem:**
   An in-depth analysis of data flow through a Multi-Layer Perceptron (MLP). This article opens the black box of multivariable calculus and the total chain rule during the backward pass to demonstrate mathematically the exact origin where gradients collapse.
-  * [Read Article (EN)](https://bastianru.github.io/deep-learning-archive/en/why-nn-die)
-  * [Leer Artículo (ES)](https://bastianru.github.io/deep-learning-archive/es/why-nn-die)
+  * [Read Article (EN)](https://bastianru.github.io/deep-learning-archive/en/why-nn-die/P1)
+  * [Leer Artículo (ES)](https://bastianru.github.io/deep-learning-archive/es/why-nn-die/P1)
 
 2.  **The Math Behind Xavier Initialization (Coming Soon):** A continuation directly from the first text,
   building upon the gradient degradation problem, we will mathematically derive the exact variance scaling factors proposed by Xavier Glorot and Yoshua Bengio in 2010 to keep signals alive across deep architectures.
