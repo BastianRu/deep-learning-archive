@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Capitulo 0
+title: Por Qué Mueren las Redes Neuronales: La Matemática Detrás del Vanishing Gradient Problem
 ---
 
-# Capitulo 0: El problema 
+# Por Qué Mueren las Redes Neuronales: La Matemática Detrás del Vanishing Gradient Problem 
 ---
 
 ## *Vanishing/Exploding Gradients*: Los Enemigos del perceptron multicapa

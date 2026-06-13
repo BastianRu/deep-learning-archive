@@ -2,13 +2,13 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
 
-title: "A Journey into the Core of Xavier Initialization"
+title: "The Deep Learning Archive"
 description: >
-  A Journey into the Core of Xavier Initialization from the math foundations.
+  Rigorous theoretical explorations into the core of Deep Learning architectures, broken down step by step.
   <br><br>
-  <strong>Chapters:</strong><br>
-  <a href="https://bastianru.github.io/xavier-init-from-scratch/es/Capitulo-0">📖 Capitulo 0 (ES)</a><br>
-  <a href="https://bastianru.github.io/xavier-init-from-scratch/en/Chapter-0">📖 Chapter 0 (EN)</a>
+  <strong>Deep Learning Foundations:</strong><br>
+  <a href="https://bastianru.github.io/deep-learning-archive/es/why-nn-die/Capitulo-0">📖 Por Qué Mueren las Redes Neuronales: La Matemática Detrás del Vanishing Gradient Problem (ES)</a><br>
+  <a href="https://bastianru.github.io/deep-learning-archive/en/why-nn-die/Chapter-0">📖 Why Neural Networks Die: The Math Behind the Vanishing Gradient Problem (EN)</a>
 
 
 markdown: kramdown

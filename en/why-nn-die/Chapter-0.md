@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Chapter 0
+title: Why Neural Networks Die: The Math Behind the Vanishing Gradient Problem
 ---
 
-# Chapter 0: The problem
+# Why Neural Networks Die: The Math Behind the Vanishing Gradient Problem
 ---
 
 ## *Vanishing/Exploding Gradients*: The Enemies of the multilayer perceptron
